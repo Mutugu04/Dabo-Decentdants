@@ -1,0 +1,7 @@
+{
+  "name": "Ibrahim Dabo Legacy - Royal Family Tree",
+  "description": "A sophisticated, collaborative family tree application specifically designed for the expansive Ibrahim Dabo lineage of Kano. Features include visual genealogy, maternal root integration, and an admin-moderated submission system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
